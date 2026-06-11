@@ -13,7 +13,7 @@ CONFIG_FEED_packages=y
 CONFIG_FEED_luci=y
 CONFIG_FEED_routing=y
 CONFIG_FEED_telephony=y
-CONFIG_FEED_video=y
+# CONFIG_FEED_video is not set
 # CONFIG_FEED_passwall_packages is not set
 # CONFIG_FEED_passwall_luci is not set
 # CONFIG_FEED_rtp2httpd is not set
